@@ -1,7 +1,5 @@
 ## Hi there 👋
-**Cplah36880/Cplah36880** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**Cplah36880/Cplah36880** is a ✨ _special_ ✨ repository because
 
 - 🔭 I’m currently working on data science , cloud technology
 - 🌱 I’m currently learning  algorithms
