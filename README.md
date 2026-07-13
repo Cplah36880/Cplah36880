@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about deep learning
 - 📫 How to reach me: github
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i am not very friendly at all ,so anyone plz make your qustions good
+- ⚡ Fun fact: i am not very friendly at all ,so anyone plz make your qustions good ,,My name is MOHDSAMAR and Cplah36880 knows me
 -->
